@@ -1,0 +1,77 @@
+Assigned Sections for Each TA:
+TA 0: 11, 15, 16
+TA 1: 7, 12
+TA 2: 15
+TA 3: 3
+TA 4: 6, 7
+TA 5: 13
+TA 6: 1, 8, 13
+TA 7: 
+TA 8: 0, 8, 10
+TA 9: 6, 10
+TA 10: 1, 9, 12
+TA 11: 1, 8
+TA 12: 3
+TA 13: 1, 8, 16
+TA 14: 0, 1, 12, 13
+TA 15: 
+TA 16: 4, 6, 13
+TA 17: 3, 7, 10, 11, 13
+TA 18: 11, 15
+TA 19: 3, 5, 7
+TA 20: 1, 10, 11, 12
+TA 21: 16
+TA 22: 5, 11, 13
+TA 23: 0
+TA 24: 6, 8
+TA 25: 
+TA 26: 
+TA 27: 3
+TA 28: 7
+TA 29: 2, 14
+TA 30: 
+TA 31: 2, 4, 9
+TA 32: 4
+TA 33: 16
+TA 34: 
+TA 35: 3, 4
+TA 36: 4, 14
+TA 37: 9, 12
+TA 38: 3, 6, 13, 14, 16
+TA 39: 
+TA 40: 2
+TA 41: 9
+TA 42: 13, 14
+
+Assigned TAs for Each Section:
+Section 0: 8, 14, 23
+Section 1: 6, 10, 11, 13, 14, 20
+Section 2: 29, 31, 40
+Section 3: 3, 12, 17, 19, 27, 35, 38
+Section 4: 16, 31, 32, 35, 36
+Section 5: 19, 22
+Section 6: 4, 9, 16, 24, 38
+Section 7: 1, 4, 17, 19, 28
+Section 8: 6, 8, 11, 13, 24
+Section 9: 10, 31, 37, 41
+Section 10: 8, 9, 17, 20
+Section 11: 0, 17, 18, 20, 22
+Section 12: 1, 10, 14, 20, 37
+Section 13: 5, 6, 14, 16, 17, 22, 38, 42
+Section 14: 29, 36, 38, 42
+Section 15: 0, 2, 18
+Section 16: 0, 13, 21, 33, 38
+
+Evaluation Scores for Chosen Solution:
+Overallocation Penalty: 4
+Conflicts Penalty: 0
+Undersupport Penalty: 1
+Unwilling Penalty: 2
+Unpreferred Penalty: 0
+
+I chose this solution because it strikes a good balance between meeting the needs of each section and respecting
+the preferences of the TAs. By assigning TAs to sections they prefer or are at least willing to take, it reduces the
+number of assignments that TAs might be unhappy with, which helps keep unwilling and unpreferred penalties low.
+Every section gets enough TAs to meet the minimum support needed, so we avoid any undersupport issues.
+Overall, this solution effectively meets the scheduling requirements without creating too many conflicts,
+making it a solid choice with minimal tradeoffs.

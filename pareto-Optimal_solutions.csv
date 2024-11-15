@@ -1,0 +1,10 @@
+groupname,overallocation,conflicts,undersupport,unwilling,unpreferred
+solution_1,2,0,23,16,3
+solution_3,5,0,23,17,2
+solution_9,0,0,25,15,2
+solution_11,1,0,24,15,3
+solution_22,0,0,24,17,2
+solution_6,6,1,20,21,2
+solution_7,25,0,1,44,11
+solution_20,22,2,0,36,5
+solution_24,15,1,10,30,2
